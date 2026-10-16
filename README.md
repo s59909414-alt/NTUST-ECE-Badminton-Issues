@@ -10,14 +10,16 @@
 
 **待處理 → 進行中 → 待驗收 → 完成**
 
-看板另有「全部項目」清單，可一次查看負責人與目前狀態。
+- [查看開發看板](https://github.com/users/s59909414-alt/projects/1)
+- [立即回報問題或提出功能建議](https://github.com/s59909414-alt/NTUST-ECE-Badminton-Issues/issues/new/choose)
 
 ## 如何回報
 
-1. 進入 [Issues](https://github.com/s59909414-alt/NTUST-ECE-Badminton-Issues/issues)。
-2. 按 **New issue**。
-3. 選擇「錯誤回報」或「功能建議」。
-4. 按表單提供重現方式、手機型號與瀏覽器等資訊。
+1. 開啟[回報表單](https://github.com/s59909414-alt/NTUST-ECE-Badminton-Issues/issues/new/choose)。
+2. 選擇「錯誤回報」或「功能建議」。
+3. 按表單提供重現方式、手機型號與瀏覽器等資訊。
+
+送出回報需要登入 GitHub；只查看公開問題與開發進度不需要取得本專案的編輯權限。
 
 ## 請勿公開張貼
 

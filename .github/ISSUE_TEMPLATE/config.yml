@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 查看開發看板
+    url: https://github.com/users/s59909414-alt/projects/1
+    about: 查看問題目前位於待處理、進行中、待驗收或完成。
   - name: 開啟正式網站
     url: https://ntust-ece-badminton-v1.pages.dev/
     about: 前往 NTUST ECE Badminton 社員端。
