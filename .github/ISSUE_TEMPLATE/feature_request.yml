@@ -1,0 +1,47 @@
+name: 功能建議
+description: 建議新功能、介面或流程改善
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        請說明現在遇到的不便，以及你期望如何改善。
+  - type: dropdown
+    id: area
+    attributes:
+      label: 建議範圍
+      options:
+        - 球員端
+        - 管理者端
+        - 配對與場地安排
+        - 報名與報到
+        - 比分與積分
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 現在的不便
+      placeholder: 例如：管理員在手機上無法快速查找等待球員。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建議做法
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: 改善後的好處
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 隱私確認
+      options:
+        - label: 我已確認內容不含密碼、金鑰或未遮蔽的個人資料。
+          required: true
